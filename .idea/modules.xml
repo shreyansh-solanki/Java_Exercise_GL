@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Exercise.iml" filepath="$PROJECT_DIR$/.idea/Java_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsFrameworkExercise/collectionsFrameworkExercise.iml" filepath="$PROJECT_DIR$/collectionsFrameworkExercise/collectionsFrameworkExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/completableFutureExercise/completableFutureExercise.iml" filepath="$PROJECT_DIR$/completableFutureExercise/completableFutureExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrencyUtilitiesExercise/concurrencyUtilitiesExercise.iml" filepath="$PROJECT_DIR$/concurrencyUtilitiesExercise/concurrencyUtilitiesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/defaultMethodExercise/defaultMethodExercise.iml" filepath="$PROJECT_DIR$/defaultMethodExercise/defaultMethodExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionalInterfaceExercise/functionalInterfaceExercise.iml" filepath="$PROJECT_DIR$/functionalInterfaceExercise/functionalInterfaceExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaExercise/lambdaExercise.iml" filepath="$PROJECT_DIR$/lambdaExercise/lambdaExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodReferenceExercise/methodReferenceExercise.iml" filepath="$PROJECT_DIR$/methodReferenceExercise/methodReferenceExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleExercise/moduleExercise.iml" filepath="$PROJECT_DIR$/moduleExercise/moduleExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopsExercise/oopsExercise.iml" filepath="$PROJECT_DIR$/oopsExercise/oopsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamsExercise/streamsExercise.iml" filepath="$PROJECT_DIR$/streamsExercise/streamsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadCoordinationExercise/threadCoordinationExercise.iml" filepath="$PROJECT_DIR$/threadCoordinationExercise/threadCoordinationExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadExercise/threadExercise.iml" filepath="$PROJECT_DIR$/threadExercise/threadExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadPoolsExercise/threadPoolsExercise.iml" filepath="$PROJECT_DIR$/threadPoolsExercise/threadPoolsExercise.iml" />
+    </modules>
+  </component>
+</project>
